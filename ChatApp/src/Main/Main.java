@@ -1,3 +1,4 @@
+//Part 1: Main Application
 import java.util.Scanner; 
 
 public class Main {
