@@ -1,3 +1,4 @@
+// Part 1: Implemented Username and Password
 public class Login {
     // Attributes to store user data
     private String storedUsername;
